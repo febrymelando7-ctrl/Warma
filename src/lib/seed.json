@@ -1,0 +1,299 @@
+{
+ "categories": [
+  {
+   "nama": "Fashion & Pakaian",
+   "produk": 184920,
+   "slug": "fashion"
+  },
+  {
+   "nama": "Olahraga & Outdoor",
+   "produk": 42180,
+   "slug": "olahraga"
+  },
+  {
+   "nama": "Elektronik & Gadget",
+   "produk": 96540,
+   "slug": "elektronik"
+  },
+  {
+   "nama": "Rumah & Interior",
+   "produk": 128300,
+   "slug": "rumah"
+  },
+  {
+   "nama": "Otomotif",
+   "produk": 38760,
+   "slug": "otomotif"
+  },
+  {
+   "nama": "Kesehatan & Kecantikan",
+   "produk": 152640,
+   "slug": "kecantikan"
+  },
+  {
+   "nama": "Hobi & Koleksi",
+   "produk": 27480,
+   "slug": "hobi"
+  },
+  {
+   "nama": "Preloved & Bekas",
+   "produk": 61900,
+   "slug": "preloved"
+  }
+ ],
+ "products": [
+  {
+   "slug": "susu",
+   "nama": "Susu UHT Cokelat Kemasan 1 Liter",
+   "harga": 18500,
+   "harga_asli": 33500,
+   "diskon": 45,
+   "kategori": "Makanan & Minuman",
+   "toko": "Warma Mart 24/7",
+   "tipe_toko": "resmi",
+   "lokasi": "Jakarta Selatan",
+   "rating": 4.9,
+   "terjual": "12 rb",
+   "flash_sale": 1,
+   "persen_terjual": 84,
+   "deskripsi": "Susu UHT rasa cokelat dalam kemasan 1 liter, praktis untuk sarapan, bekal, atau campuran minuman dan kue. Simpan di tempat sejuk dan kocok sebelum diminum. Setelah dibuka, simpan di kulkas dan habiskan dalam 2 hari."
+  },
+  {
+   "slug": "kopi",
+   "nama": "Kopi Susu Gula Aren Botol 250ml",
+   "harga": 15900,
+   "harga_asli": 25000,
+   "diskon": 36,
+   "kategori": "Makanan & Minuman",
+   "toko": "Warma Mart 24/7",
+   "tipe_toko": "resmi",
+   "lokasi": "Jakarta Selatan",
+   "rating": 4.9,
+   "terjual": "9 rb",
+   "flash_sale": 1,
+   "persen_terjual": 91,
+   "deskripsi": "Kopi susu dengan gula aren dalam botol 250 ml, siap diminum. Paling nikmat disajikan dingin. Kocok perlahan sebelum diminum dan simpan di kulkas."
+  },
+  {
+   "slug": "powerbank",
+   "nama": "Powerbank 20.000mAh Fast Charge 22.5W",
+   "harga": 189000,
+   "harga_asli": 349000,
+   "diskon": 46,
+   "kategori": "Elektronik & Gadget",
+   "toko": "Voltix Official",
+   "tipe_toko": "resmi",
+   "lokasi": "Jakarta Pusat",
+   "rating": 4.8,
+   "terjual": "3 rb",
+   "flash_sale": 1,
+   "persen_terjual": 76,
+   "deskripsi": "Powerbank berkapasitas 20.000 mAh dengan dukungan pengisian cepat 22,5 W. Cocok dibawa bepergian untuk mengisi daya ponsel beberapa kali dalam satu perjalanan. Pastikan kabel dan perangkatmu mendukung pengisian cepat."
+  },
+  {
+   "slug": "keripik",
+   "nama": "Keripik Pisang Pedas Manis 250g",
+   "harga": 12900,
+   "harga_asli": 22000,
+   "diskon": 41,
+   "kategori": "Makanan & Minuman",
+   "toko": "Rumah Tangga Daily Needs Store",
+   "tipe_toko": "lokal",
+   "lokasi": "Bandung",
+   "rating": 4.8,
+   "terjual": "6 rb",
+   "flash_sale": 1,
+   "persen_terjual": 68,
+   "deskripsi": "Keripik pisang rasa pedas manis dalam kemasan 250 g. Renyah dan cocok untuk camilan santai atau oleh-oleh. Setelah dibuka, tutup rapat agar tetap renyah."
+  },
+  {
+   "slug": "handuk",
+   "nama": "Handuk Mandi Microfiber 70×140cm",
+   "harga": 49000,
+   "harga_asli": 89000,
+   "diskon": 45,
+   "kategori": "Rumah & Interior",
+   "toko": "Rumah Tangga Daily Needs Store",
+   "tipe_toko": "lokal",
+   "lokasi": "Bandung",
+   "rating": 4.7,
+   "terjual": "2 rb",
+   "flash_sale": 1,
+   "persen_terjual": 88,
+   "deskripsi": "Handuk mandi berbahan microfiber ukuran 70×140 cm. Teksturnya lembut, ringan, dan cepat kering. Cuci terpisah pada pemakaian pertama."
+  },
+  {
+   "slug": "sepatu",
+   "nama": "Sepatu Sneakers Putih Classic Unisex",
+   "harga": 289000,
+   "harga_asli": 459000,
+   "diskon": 37,
+   "kategori": "Fashion & Pakaian",
+   "toko": "Langkah Official Store",
+   "tipe_toko": "resmi",
+   "lokasi": "Jakarta Barat",
+   "rating": 4.9,
+   "terjual": "2,3 rb",
+   "flash_sale": 0,
+   "persen_terjual": 0,
+   "deskripsi": "Sepatu sneakers putih model klasik untuk pria dan wanita (unisex). Desainnya sederhana dan mudah dipadukan dengan pakaian sehari-hari. Pastikan ukuran sudah sesuai sebelum memesan."
+  },
+  {
+   "slug": "kaos",
+   "nama": "Kaos Oversize Cotton Combed 30s Premium",
+   "harga": 89000,
+   "harga_asli": 139000,
+   "diskon": 36,
+   "kategori": "Fashion & Pakaian",
+   "toko": "Kaos Kalcer Studio",
+   "tipe_toko": "pengguna",
+   "lokasi": "Bandung",
+   "rating": 4.8,
+   "terjual": "5,1 rb",
+   "flash_sale": 0,
+   "persen_terjual": 0,
+   "deskripsi": "Kaos oversize berbahan cotton combed 30s yang nyaman dan menyerap keringat. Potongannya longgar untuk tampilan santai. Cuci dengan air dingin dan hindari menjemur di bawah terik matahari langsung agar warna awet."
+  },
+  {
+   "slug": "tws",
+   "nama": "TWS Bluetooth 5.3 Garansi Resmi 1 Tahun",
+   "harga": 249000,
+   "harga_asli": 499000,
+   "diskon": 50,
+   "kategori": "Elektronik & Gadget",
+   "toko": "Voltix Official",
+   "tipe_toko": "resmi",
+   "lokasi": "Jakarta Pusat",
+   "rating": 4.9,
+   "terjual": "9,8 rb",
+   "flash_sale": 0,
+   "persen_terjual": 0,
+   "deskripsi": "Earphone TWS dengan Bluetooth 5.3 dan garansi resmi 1 tahun. Koneksinya stabil dan praktis untuk musik, telepon, dan video. Simpan bukti pembelian untuk klaim garansi."
+  },
+  {
+   "slug": "ricecooker",
+   "nama": "Rice Cooker Mini 1.2L Anti Lengket",
+   "harga": 219000,
+   "harga_asli": 339000,
+   "diskon": 35,
+   "kategori": "Rumah & Interior",
+   "toko": "Dapur Pintar Official",
+   "tipe_toko": "resmi",
+   "lokasi": "Semarang",
+   "rating": 4.7,
+   "terjual": "1,4 rb",
+   "flash_sale": 0,
+   "persen_terjual": 0,
+   "deskripsi": "Rice cooker mini berkapasitas 1,2 liter dengan lapisan anti lengket. Pas untuk 1–3 orang. Bersihkan bagian dalamnya setelah dingin agar lapisannya awet."
+  },
+  {
+   "slug": "serum",
+   "nama": "Serum Niacinamide 10% + Zinc 30ml",
+   "harga": 78000,
+   "harga_asli": 129000,
+   "diskon": 39,
+   "kategori": "Kesehatan & Kecantikan",
+   "toko": "Glowlab Official",
+   "tipe_toko": "resmi",
+   "lokasi": "Jakarta Selatan",
+   "rating": 5.0,
+   "terjual": "18,2 rb",
+   "flash_sale": 0,
+   "persen_terjual": 0,
+   "deskripsi": "Serum wajah dengan niacinamide 10% dan zinc, kemasan 30 ml. Gunakan setelah membersihkan wajah, lanjutkan dengan pelembap, dan pakai tabir surya di siang hari. Lakukan uji tempel di area kecil kulit sebelum pemakaian pertama."
+  },
+  {
+   "slug": "kamera",
+   "nama": "Kamera Mirrorless Preloved 95% Like New",
+   "harga": 4250000,
+   "harga_asli": 6800000,
+   "diskon": 37,
+   "kategori": "Preloved & Bekas",
+   "toko": "Rizky A.",
+   "tipe_toko": "pengguna",
+   "lokasi": "Sleman",
+   "rating": 4.8,
+   "terjual": "94",
+   "flash_sale": 0,
+   "persen_terjual": 0,
+   "deskripsi": "Kamera mirrorless preloved dengan kondisi 95% seperti baru, dijual oleh penjual perorangan. Periksa foto dan keterangan kondisi dengan teliti sebelum memesan. Berlaku retur 7 hari melalui Warma bila barang tidak sesuai deskripsi."
+  },
+  {
+   "slug": "sepeda",
+   "nama": "Sepeda Lipat 20 Inch 7 Speed Ringan",
+   "harga": 1980000,
+   "harga_asli": 2640000,
+   "diskon": 25,
+   "kategori": "Otomotif",
+   "toko": "Roda Nusantara",
+   "tipe_toko": "resmi",
+   "lokasi": "Bekasi",
+   "rating": 4.7,
+   "terjual": "372",
+   "flash_sale": 0,
+   "persen_terjual": 0,
+   "deskripsi": "Sepeda lipat 20 inci dengan 7 kecepatan dan bodi ringan. Praktis dilipat untuk disimpan di rumah atau dibawa di kendaraan. Periksa rem dan baut sebelum dipakai pertama kali."
+  },
+  {
+   "slug": "rak",
+   "nama": "Rak Dinding Minimalis Kayu Jati Solid",
+   "harga": 165000,
+   "harga_asli": 259000,
+   "diskon": 36,
+   "kategori": "Rumah & Interior",
+   "toko": "Kayu Krya Jepara",
+   "tipe_toko": "pengguna",
+   "lokasi": "Jepara",
+   "rating": 4.9,
+   "terjual": "876",
+   "flash_sale": 0,
+   "persen_terjual": 0,
+   "deskripsi": "Rak dinding minimalis dari kayu jati solid. Desainnya sederhana, cocok untuk buku, tanaman, atau pajangan. Pasang pada dinding yang kuat dan jangan melebihi batas beban."
+  },
+  {
+   "slug": "blender",
+   "nama": "Blender Portable USB 400ml Tahan Panas",
+   "harga": 139000,
+   "harga_asli": 221000,
+   "diskon": 37,
+   "kategori": "Rumah & Interior",
+   "toko": "Dapur Pintar Official",
+   "tipe_toko": "resmi",
+   "lokasi": "Tangerang",
+   "rating": 4.6,
+   "terjual": "2,9 rb",
+   "flash_sale": 0,
+   "persen_terjual": 0,
+   "deskripsi": "Blender portable USB dengan botol 400 ml tahan panas. Cocok untuk jus dan smoothie porsi satu orang. Isi daya sebelum dipakai dan hindari memasukkan es yang terlalu keras."
+  }
+ ],
+ "vouchers": [
+  {
+   "judul": "Cashback 20%",
+   "badge": "20%",
+   "deskripsi": "Maksimal Rp40.000 untuk semua kategori",
+   "minimal": "Min. belanja Rp150.000",
+   "berlaku": "Berlaku s/d 30 Nov 2026",
+   "kuota": "Kuota 5.000 · 1x per akun",
+   "warna": "hijau"
+  },
+  {
+   "judul": "Gratis Ongkir Rp0",
+   "badge": "Rp0",
+   "deskripsi": "Potongan ongkir sampai Rp25.000",
+   "minimal": "Tanpa minimum belanja",
+   "berlaku": "Berlaku s/d 31 Des 2026",
+   "kuota": "Kuota 25.000 · semua kurir",
+   "warna": "biru"
+  },
+  {
+   "judul": "Diskon Pengguna Baru",
+   "badge": "30%",
+   "deskripsi": "Potongan langsung untuk transaksi pertama",
+   "minimal": "Min. belanja Rp75.000",
+   "berlaku": "Berlaku s/d 31 Des 2026",
+   "kuota": "Khusus akun baru · 1x pakai",
+   "warna": "tosca"
+  }
+ ]
+}
